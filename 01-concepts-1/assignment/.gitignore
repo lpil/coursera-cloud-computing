@@ -3,3 +3,6 @@ dbg.log
 msgcount.log
 stats.log
 machine.log
+*.o
+grade-dir
+dbg.log msgcount.log stats.log
